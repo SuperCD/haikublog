@@ -1,0 +1,5 @@
+baseURL = "http://example.org/"
+languageCode = "it"
+DefaultContentLanguage = "it"
+title = "Haiku Blog"
+theme = "story"
