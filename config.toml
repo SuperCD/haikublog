@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://nostalgic-rosalind-41a594.netlify.com"
 languageCode = "it"
 DefaultContentLanguage = "it"
 title = "Haiku Blog"
