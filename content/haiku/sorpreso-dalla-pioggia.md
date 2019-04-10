@@ -1,7 +1,7 @@
 ---
 title: "Sorpreso Dalla Pioggia"
 date: 2019-11-10
-draft: true
+draft: false
 ---
 
 La pioggia fredda  

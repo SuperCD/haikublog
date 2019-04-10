@@ -1,7 +1,7 @@
 ---
 title: "Un Due Tre Stella"
 date: 2018-11-11
-draft: true
+draft: false
 ---
 
 Come statue
