@@ -3,3 +3,8 @@ languageCode = "it"
 DefaultContentLanguage = "it"
 title = "Haiku Blog"
 theme = "story"
+
+[params]
+  author = "Giacomo Pellegrini"
+  twitter = "supercd"
+  classes = ["feature-justify"]
