@@ -1,4 +1,4 @@
-baseURL = "https://www.bizarretheory.com/"
+baseURL = "http://www.bizarretheory.com/"
 languageCode = "it"
 DefaultContentLanguage = "it"
 title = "Bizarre Theory - Un blog di Haiku di Giacomo Pellegrini"
