@@ -4,10 +4,9 @@ date: 2019-03-08
 draft: false
 ---
 
-Scalda l'anima
-un sorriso di donna -
-Sole di marzo
-
+Scalda l'anima  
+un sorriso di donna -  
+Sole di marzo  
 <!--more-->
 ---
 ---

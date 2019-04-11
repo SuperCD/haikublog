@@ -3,11 +3,9 @@ title: "Un Due Tre Stella"
 date: 2018-11-11
 draft: false
 ---
-
-Come statue
-tra gli alberi gialli -
-"Un, due, tre, stella!"
-
+Come statue\
+tra gli alberi gialli -\
+"Un, due, tre, stella!"\
 <!--more-->
 
 Uno dei primi haiku che ho avuto l'ardore di fare leggere ad un pubblico più vasto dei miei amici più vicini.

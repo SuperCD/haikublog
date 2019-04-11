@@ -4,9 +4,9 @@ date: 2018-11-02
 draft: false
 ---
 
-Tendo l'orecchio
-E cerco la tua voce-
-sento la pioggia
+>Tendo l'orecchio\
+>e cerco la tua voce -\
+>sento la pioggia\
 <!--more-->
 
 Ero in attesa di una risposta da parte di una persona a cui tengo molto.

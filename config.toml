@@ -2,9 +2,28 @@ baseURL = "https://www.bizarretheory.com/"
 languageCode = "it"
 DefaultContentLanguage = "it"
 title = "Bizarre Theory - Un blog di Haiku di Giacomo Pellegrini"
+paginate = 5
 theme = "story"
+enableRobotsTXT = true
 
 [params]
   author = "Giacomo Pellegrini"
   twitter = "supercd"
-  classes = ["feature-justify"]
+  classes = []
+
+[[menu.social]]
+  name = "Facebook"
+  title = "fab fa-facebook-square"
+  url = "https://www.facebook.com/supercd"
+
+[[menu.main]]
+  name = "Haiku"
+  title = "Haiku"
+  url = "/haiku/"
+
+[outputs]
+home = ["HTML", "JSON", "RSS"]
+page = ["HTML"]
+section = ["HTML", "RSS"]
+taxonomy = ["HTML", "RSS"]
+taxonomyTerm = ["HTML", "RSS"]
