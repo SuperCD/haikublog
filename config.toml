@@ -5,6 +5,7 @@ title = "Bizarre Theory - Un blog di Haiku di Giacomo Pellegrini"
 paginate = 5
 theme = "story"
 enableRobotsTXT = true
+googleAnalytics = "UA-138137025-1"
 
 [params]
   author = "Giacomo Pellegrini"
