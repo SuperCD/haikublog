@@ -3,7 +3,11 @@ title: "Siamo Rondini"
 description: "Un haiku scritto da Giacomo Pellegrini ispirato alle rondini in primavera"
 date: 2019-04-10T17:45:01+02:00
 image: "img/due-rondini.jpg"
+images:
+- img/due-rondini.th.jpg
 thumbnail: "img/due-rondini.th.jpg"
+keywords: "Haiku"
+locale: it
 draft: false
 ---
 >Sembra piccolo  
