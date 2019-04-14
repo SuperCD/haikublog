@@ -2,6 +2,8 @@
 title: Bizarre Theory
 subtitle: "Un blog di Haiku scritti da Giacomo Pellegrini"
 description: La raccolta di tutti gli haiku in italiano pubblicati su internet da Giacomo Pellegini. Gli haiku sono piccole poesie di tre versi di origine giapponese.
+images:
+- img/banner.fb.jpg
 ---
 
 ---
