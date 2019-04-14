@@ -3,7 +3,7 @@ title: "Perle Di Luce"
 date: 2018-11-04
 draft: false
 ---
->Dopo la pioggia,\  
+>Dopo la pioggia,\
 >perle di luce\
 >sopra le foglie gialle\
 <!--more-->
