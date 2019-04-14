@@ -3,7 +3,6 @@ title: "Il Rumore Della Pioggia"
 date: 2018-11-02
 draft: false
 ---
-
 >Tendo l'orecchio\
 >e cerco la tua voce -\
 >sento la pioggia\

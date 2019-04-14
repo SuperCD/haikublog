@@ -3,10 +3,9 @@ title: "La Brina Del Mattino"
 date: 2019-01-07
 draft: false
 ---
-
-Vetri ghiacciati -  
-Aspettando mi chiedo  
-se tu mi pensi  
+>Vetri ghiacciati -\
+>Aspettando mi chiedo\
+>se tu mi pensi\
 
 <!--more-->
 

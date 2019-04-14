@@ -3,9 +3,9 @@ title: "Aceri Americani"
 date: 2018-09-05
 draft: false
 ---
-Rossa foschia -  
-un leggero tepore  
-sveglia l'acero  
+>Rossa foschia -\
+>un leggero tepore\
+>sveglia l'acero\
 <!--more-->
 
 Mi trovavo negli Stati Uniti, a Florence, Indiana.

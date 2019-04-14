@@ -3,10 +3,9 @@ title: "Una Bella Rosa"
 date: 2018-03-31
 draft: false
 ---
-
-Incontro un bivio -  
-a segnare la strada  
-una bella rosa  
+>Incontro un bivio -\
+>a segnare la strada\
+>una bella rosa\
 
 <!--more-->
 

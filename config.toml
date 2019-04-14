@@ -8,7 +8,6 @@ enableRobotsTXT = true
 googleAnalytics = "UA-138137025-1"
 
 [params]
-  title = "Bizarre Theory"
   author = "Giacomo Pellegrini"
   facebook = "supercd"
   twitter = "supercd"

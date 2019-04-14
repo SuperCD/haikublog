@@ -3,9 +3,9 @@ title: "Il Pesce e il Drago"
 date: 2018-03-15
 draft: false
 ---
-Ballano lenti  
-Un pesce ed un drago-  
-Gioco di fili  
+>Ballano lenti  
+>Un pesce ed un drago-  
+>Gioco di fili  
 <!--more-->
 
 Ho scritto questo Haiku durante un viaggio in Cina.

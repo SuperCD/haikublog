@@ -5,9 +5,7 @@ image: "img/gonna-a-fiori.jpg"
 thumbnail: "img/gonna-a-fiori.th.jpg"
 draft: false
 ---
-Nel suo profumo  
-tutta la primavera -  
-una gonna a fiori  
+>Nel suo profumo  
+>tutta la primavera -  
+>una gonna a fiori  
 <!--more-->
----
----

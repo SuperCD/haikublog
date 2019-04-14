@@ -3,10 +3,9 @@ title: "Una Calda Voce"
 date: 2018-12-30
 draft: false
 ---
-
-Il freddo mostra  
-la sua calda voce -  
-Attorno neve  
+>Il freddo mostra\
+>la sua calda voce -\
+>Attorno neve\
 
 <!--more-->
 

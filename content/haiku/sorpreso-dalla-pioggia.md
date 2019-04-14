@@ -3,10 +3,9 @@ title: "Sorpreso Dalla Pioggia"
 date: 2019-11-10
 draft: false
 ---
-
-La pioggia fredda  
-scurisce il porfido -  
-Alzo l'ombrello  
+>La pioggia fredda\
+>scurisce il porfido -\
+>alzo l'ombrello\
 <!--more-->
 
 Una scena di pioggia in città.
