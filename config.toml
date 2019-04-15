@@ -9,13 +9,13 @@ googleAnalytics = "UA-138137025-1"
 
 [params]
   author = "Giacomo Pellegrini"
-  facebook = "supercd"
+  facebook = "bizarretheory"
   twitter = "supercd"
 
 [[menu.social]]
   name = "Facebook"
   title = "fab fa-facebook-square"
-  url = "https://www.facebook.com/supercd"
+  url = "https://www.facebook.com/bizarretheory"
 
 [[menu.main]]
   name = "Haiku"
