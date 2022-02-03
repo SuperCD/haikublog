@@ -5,8 +5,7 @@ draft: false
 ---
 >Vetri ghiacciati -\
 >Aspettando mi chiedo\
->se tu mi pensi\
-
+>se tu mi pensi
 <!--more-->
 
 Scendendo a prendere l'auto per andare al lavoro l'ho trovata con i vetri ghiacciati, cosa che mi ha costretto ad aspettare.

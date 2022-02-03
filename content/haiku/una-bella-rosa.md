@@ -5,8 +5,7 @@ draft: false
 ---
 >Incontro un bivio -\
 >a segnare la strada\
->una bella rosa\
-
+>una bella rosa
 <!--more-->
 
 Dopo un periodo complicato, finito con una [giornata pesante](/haiku/un-cielo-senza-stelle) una mia buona amica mi ha dato un ottimo consiglio.

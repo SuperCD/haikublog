@@ -5,8 +5,7 @@ draft: false
 ---
 >Il freddo mostra\
 >la sua calda voce -\
->Attorno neve\
-
+>Attorno neve
 <!--more-->
 
 Questo haiku mi è stato ispirato da una foto che ho visto, che mi ha acceso l'idea.
