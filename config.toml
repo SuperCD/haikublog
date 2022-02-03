@@ -1,7 +1,7 @@
 baseURL = "https://www.bizarretheory.com/"
 languageCode = "it"
 DefaultContentLanguage = "it"
-title = "Bizarre Theory"
+title = "Bizarre Theory Haiku"
 paginate = 5
 theme = "story"
 enableRobotsTXT = true
@@ -10,7 +10,6 @@ googleAnalytics = "UA-138137025-1"
 [params]
   author = "Giacomo Pellegrini"
   facebook = "bizarretheory"
-  twitter = "supercd"
 
 [[menu.social]]
   name = "Facebook"
