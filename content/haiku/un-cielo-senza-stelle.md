@@ -10,7 +10,7 @@ draft: false
 ---
 >Notte di marzo -\
 >Un cielo senza stelle\
->inghiotte tutto\
+>inghiotte tutto
 <!--more-->
 
 Al termine di una giornata particolaremente complicata, in un periodo complicato mi sono trovato a passare un momento piuttosto triste in cui tutto mi sembrava davvero nero.

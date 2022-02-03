@@ -5,7 +5,7 @@ draft: false
 ---
 >Autunno grigio -\
 >nei suoi sguardi ritrovo\
->cieli azzurri\
+>cieli azzurri
 <!--more-->
 
 Nel bel mezzo di un autunno privo di qualsiasi bellezza, all'improvviso ho incontrato uno sguardo capace di scuotermi nel profondo.

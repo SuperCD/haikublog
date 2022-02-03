@@ -5,7 +5,7 @@ draft: false
 ---
 >La luna dorme\
 >stesa sul mare piatto -\
->brezza salmastra\
+>brezza salmastra
 <!--more-->
 
 Andare al mare di notte riseva delle piacevoli sorprese.

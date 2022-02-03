@@ -5,7 +5,7 @@ draft: false
 ---
 >Dopo la pioggia,\
 >perle di luce\
->sopra le foglie gialle\
+>sopra le foglie gialle
 <!--more-->
 
 Non sempre la pioggia è triste. Spesso ci regala anche degli spettacoli meravigliosi se viene aiutata dal sole.

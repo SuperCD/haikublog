@@ -5,7 +5,7 @@ draft: false
 ---
 >Come statue\
 >tra gli alberi gialli -\
->"Un, due, tre, stella!"\
+>"Un, due, tre, stella!"
 <!--more-->
 
 Uno dei primi haiku che ho avuto l'ardore di fare leggere ad un pubblico più vasto dei miei amici più vicini.

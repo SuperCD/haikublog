@@ -5,7 +5,7 @@ draft: false
 ---
 >Il primo freddo -\
 >Mi scaldano le mani\
->due caldarroste\
+>due caldarroste
 <!--more-->
 Un haiku che per me è speciale. è stato il primo haiku che ho sottoposto ad un pubblico di scrittori di haiku per il loro giudizio.
 

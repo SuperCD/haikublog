@@ -5,7 +5,7 @@ draft: false
 ---
 >Splendida fiamma -\
 >Le sue carezze brucian\
->una falena\
+>una falena
 <!--more-->
 
 Certe volte incontriamo sul nostro percorso delle situazioni che ci sembrano molto positive. Nel nostro continuo inseguire le cose che ci piacciono ci lanciamo in esse.

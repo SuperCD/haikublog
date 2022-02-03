@@ -7,6 +7,6 @@ draft: false
 ---
 >Fredde giornate\
 >chiuse in pochi versi,\
->come cristalli\
+>come cristalli
 <!--more-->
 Un altro haiku dedicato ad una delle cose che mi piace fare, ovvero scrivere haiku.

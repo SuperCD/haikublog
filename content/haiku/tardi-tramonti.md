@@ -5,7 +5,7 @@ draft: false
 ---
 >È in ritardo\
 >il timido tramonto -\
->monti dorati\
+>monti dorati
 <!--more-->
 
 Il tramonto non è più all'ora in cui eravamo abituati a vederlo, per via della primavera ormai arrivata tra noi.

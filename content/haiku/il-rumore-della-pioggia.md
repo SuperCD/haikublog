@@ -5,7 +5,7 @@ draft: false
 ---
 >Tendo l'orecchio\
 >e cerco la tua voce -\
->sento la pioggia\
+>sento la pioggia
 <!--more-->
 
 Ero in attesa di una risposta da parte di una persona a cui tengo molto.

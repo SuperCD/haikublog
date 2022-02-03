@@ -11,7 +11,7 @@ draft: false
 ---
 >La prima neve -\
 >Il suo candido viso\
->così lontano\
+>così lontano
 <!--more-->
 
 Ho scritto questo haiku durante un viaggio in Russia.

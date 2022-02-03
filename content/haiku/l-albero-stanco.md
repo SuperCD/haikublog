@@ -5,7 +5,7 @@ draft: false
 ---
 >L'albero stanco\
 >ormai sta ingiallendo -\
->foglie bagnate\
+>foglie bagnate
 <!--more-->
 
 Semplice Haiku primaverile che fotografa il solito albero davanti al mio ufficio.

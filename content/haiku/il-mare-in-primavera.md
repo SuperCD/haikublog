@@ -10,7 +10,7 @@ draft: false
 ---
 >Il mare canta\
 >invitando l'estate -\
->tutto è in fiore\
+>tutto è in fiore
 <!--more-->
 
 Ho passato la pasquetta al mare, e devo dire che è già un chiaro invito all'estate che sta per arrivare.

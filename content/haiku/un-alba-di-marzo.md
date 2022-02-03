@@ -11,6 +11,6 @@ draft: false
 ---
 >La semplicità\
 >di un'alba di marzo,\
->il suo bel viso\
+>il suo bel viso
 <!--more-->
 La natura nella sua semplicità può regalare la massima bellezza. Io trovo che anche nelle persone la semplicità sia sinonimo di bellezza.

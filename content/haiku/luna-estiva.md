@@ -5,7 +5,7 @@ draft: false
 ---
 >Capelli scuri\
 >svelano un sorriso -\
->luna estiva\
+>luna estiva
 <!--more-->
 
 Non c'è molto da dire su questo haiku.

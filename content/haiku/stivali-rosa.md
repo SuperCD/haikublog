@@ -5,5 +5,5 @@ draft: false
 ---
 >Stivali rosa\
 >dentro la pozzanghera -\
->una bimba ride\
+>una bimba ride
 <!--more-->

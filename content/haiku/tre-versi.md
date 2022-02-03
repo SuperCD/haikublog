@@ -5,7 +5,7 @@ draft: false
 ---
 >Giorno di pioggia -\
 >con tre piccoli versi\
->descrivo il mondo\
+>descrivo il mondo
 <!--more-->
 
 Questo haiku è uno dei primi che ho scritto. Credo il secondo.

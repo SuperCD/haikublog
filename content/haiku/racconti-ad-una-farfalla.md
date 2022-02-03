@@ -5,7 +5,7 @@ draft: false
 ---
 >Scorre il ruscello -\
 >Racconto i miei pensieri\
->a una farfalla\
+>a una farfalla
 <!--more-->
 Hauku scritto dopo un piccolo periodo senza troppe idee.
 

@@ -5,7 +5,7 @@ draft: false
 ---
 >La pioggia fredda\
 >scurisce il porfido -\
->alzo l'ombrello\
+>alzo l'ombrello
 <!--more-->
 
 Una scena di pioggia in città.

@@ -5,7 +5,7 @@ draft: false
 ---
 >Rossa foschia -\
 >un leggero tepore\
->sveglia l'acero\
+>sveglia l'acero
 <!--more-->
 
 Mi trovavo negli Stati Uniti, a Florence, Indiana.

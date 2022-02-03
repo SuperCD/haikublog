@@ -5,7 +5,7 @@ draft: false
 ---
 >Si apre il cielo\
 >finita la tempesta -\
->occhi azzurri\
+>occhi azzurri
 <!--more-->
 
 Un esperimento per esprimere, attraverso la natura, le mie sensazioni.

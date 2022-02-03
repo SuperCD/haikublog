@@ -10,7 +10,7 @@ draft: false
 ---
 >Tra erba e fiori\
 >sorridono gli amici -\
->fuma la brace\
+>fuma la brace
 <!--more-->
 
 Un haiku pasquale, per propiziare a tutti una serena Pasquetta con gli amici.
